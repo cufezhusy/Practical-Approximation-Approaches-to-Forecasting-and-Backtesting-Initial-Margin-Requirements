@@ -1,0 +1,120 @@
+\begin{thebibliography}{18}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Anfuso et~al.(2016)Anfuso, Aziz, Giltinan, and
+  Loukopoulos}]{anfuso2016sound}
+\bibinfo{author}{F.~Anfuso}, \bibinfo{author}{D.~Aziz},
+  \bibinfo{author}{P.~Giltinan}, \bibinfo{author}{K.~Loukopoulos},
+\newblock \bibinfo{title}{A sound modelling and backtesting framework for
+  forecasting initial margin requirements},
+\newblock \bibinfo{journal}{SSRN}  (\bibinfo{year}{2016}).
+%Type = Article
+\bibitem[{Andersen et~al.(2016)Andersen, Pykhtin, and
+  Sokol}]{andersen2016rethinking}
+\bibinfo{author}{L.~B. Andersen}, \bibinfo{author}{M.~Pykhtin},
+  \bibinfo{author}{A.~Sokol},
+\newblock \bibinfo{title}{Rethinking margin period of risk},
+\newblock \bibinfo{journal}{SSRN}  (\bibinfo{year}{2016}).
+%Type = Article
+\bibitem[{{ISDA Working Group on Margin
+  Requirements}(2016{\natexlab{a}})}]{isda_im_method_2016}
+\bibinfo{author}{{ISDA Working Group on Margin Requirements}},
+\newblock \bibinfo{title}{Isda simm methdology version r1.0},
+\newblock \bibinfo{journal}{ISDA}  (\bibinfo{year}{2016}{\natexlab{a}}).
+%Type = Article
+\bibitem[{{ISDA Working Group on Margin
+  Requirements}(2016{\natexlab{b}})}]{isda_im_cacl_process_2016}
+\bibinfo{author}{{ISDA Working Group on Margin Requirements}},
+\newblock \bibinfo{title}{Uncleared initial margin calculations and processes
+  related to the isda wgmr simm initiative,},
+\newblock \bibinfo{journal}{ISDA}  (\bibinfo{year}{2016}{\natexlab{b}}).
+%Type = Article
+\bibitem[{{Basel Committee on Banking Supervision}(2011)}]{Basel2011BaselIII}
+\bibinfo{author}{{Basel Committee on Banking Supervision}},
+\newblock \bibinfo{title}{Basel iii: international regulatory framework for
+  banks},
+\newblock \bibinfo{journal}{BIS web site}  (\bibinfo{year}{2011}).
+%Type = Book
+\bibitem[{Gregory(2012)}]{gregory2012Counterparty}
+\bibinfo{author}{J.~Gregory}, \bibinfo{title}{Counterparty Credit Risk and
+  Credit Value Adjustment: A Continuing Challenge for Global Financial
+  Markets}, \bibinfo{publisher}{Wiley}, \bibinfo{year}{2012}.
+%Type = Article
+\bibitem[{Sherif(2015)}]{risk2015AADGPU}
+\bibinfo{author}{N.~Sherif},
+\newblock \bibinfo{title}{Aad vs gpus: Banks turn to maths tricks as chips lose
+  appeal},
+\newblock \bibinfo{journal}{Risk}  (\bibinfo{year}{2015}).
+%Type = Book
+\bibitem[{Hansen(2017)}]{Hansen2017Econometrics}
+\bibinfo{author}{B.~E. Hansen}, \bibinfo{title}{Econometrics Lecture Notes in
+  University of Wisconsin}, \bibinfo{year}{2017}.
+%Type = Book
+\bibitem[{Silverman(1986)}]{Silverman1986Density}
+\bibinfo{author}{B.~Silverman}, \bibinfo{title}{Density Estimation for
+  Statistics and Data Analysis}, \bibinfo{publisher}{Chapman \& Hall},
+  \bibinfo{year}{1986}.
+%Type = Article
+\bibitem[{Longstaff~F(2011)}]{longstaffSchwartz2001AMC}
+\bibinfo{author}{S.~E. Longstaff~F},
+\newblock \bibinfo{title}{Valuing american options by simulation: A simple
+  least-squares approach},
+\newblock \bibinfo{journal}{Review of Financial Studies} \bibinfo{volume}{14}
+  (\bibinfo{year}{2011}) \bibinfo{pages}{113--147}.
+%Type = Article
+\bibitem[{Ronald A~Fisher(1960)}]{cornishFisher1960}
+\bibinfo{author}{E.~C. Ronald A~Fisher},
+\newblock \bibinfo{title}{The percentile points of distributions having known
+  cumulants},
+\newblock \bibinfo{journal}{Technometrics} \bibinfo{volume}{2}
+  (\bibinfo{year}{1960}) \bibinfo{pages}{209--225}.
+%Type = Article
+\bibitem[{{Basel Committee on Banking
+  Supervision}(1996)}]{Basel1996VaRBacktesting}
+\bibinfo{author}{{Basel Committee on Banking Supervision}},
+\newblock \bibinfo{title}{Supervisory framework for the use of
+  “backtesting” in conjunction with the internal models approach to market
+  risk captial requirements},
+\newblock \bibinfo{journal}{BIS web site}  (\bibinfo{year}{1996}).
+%Type = Article
+\bibitem[{Ruiz(2014)}]{ruiz2014backtesting}
+\bibinfo{author}{I.~Ruiz},
+\newblock \bibinfo{title}{Backtesting counterparty risk : How good is your
+  model?},
+\newblock \bibinfo{journal}{Journal of Credit Risk} \bibinfo{volume}{10}
+  (\bibinfo{year}{2014}) \bibinfo{pages}{87--120}.
+%Type = Article
+\bibitem[{{Basel Committee on Banking Supervision
+  }(2010)}]{Basel2010Backtesting}
+\bibinfo{author}{{Basel Committee on Banking Supervision }},
+\newblock \bibinfo{title}{Sound practices for backtesting counterparty credit
+  risk models},
+\newblock \bibinfo{journal}{BIS web site}  (\bibinfo{year}{2010}).
+%Type = Article
+\bibitem[{{ISDA Working Group on Margin Requirements}(2016)}]{isda_simm_2016}
+\bibinfo{author}{{ISDA Working Group on Margin Requirements}},
+\newblock \bibinfo{title}{Simm - from principles to model specification},
+\newblock \bibinfo{journal}{ISDA}  (\bibinfo{year}{2016}).
+%Type = Article
+\bibitem[{Authorities(2016)}]{EURTSMarginReform}
+\bibinfo{author}{E.~S. Authorities},
+\newblock \bibinfo{title}{Final technical standards on margin requirements for
+  non-centrally cleard derivatives},
+\newblock \bibinfo{journal}{EU web site}  (\bibinfo{year}{2016}).
+%Type = Article
+\bibitem[{Quirk and Saposnik(1962)}]{Quirk:1962}
+\bibinfo{author}{J.~P. Quirk}, \bibinfo{author}{R.~Saposnik},
+\newblock \bibinfo{title}{Admissibility and measurable utility functions"},
+\newblock \bibinfo{journal}{The Review of Economics Studies}
+  \bibinfo{volume}{29} (\bibinfo{year}{1962}) \bibinfo{pages}{140--146}.
+%Type = Article
+\bibitem[{Kolmogorov(1933)}]{kolmogorov1933}
+\bibinfo{author}{A.~Kolmogorov},
+\newblock \bibinfo{title}{Sulla determinazione empirica di una legge di
+  distribuzione},
+\newblock \bibinfo{journal}{Giornale dell’Istituto Italiano degli Attuari}
+  \bibinfo{volume}{4} (\bibinfo{year}{1933}) \bibinfo{pages}{83--91}.
+
+\end{thebibliography}
